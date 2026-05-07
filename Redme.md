@@ -54,7 +54,6 @@
   - `setClicks(prev => prev + 1)`
 - `0` stock wale products ka stock badge properly show karwaya using:
   - `product.stock != null`
-- Unused `Button` import remove/comment kiya.
 
 ---
 
